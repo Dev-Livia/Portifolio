@@ -1,18 +1,18 @@
 
 body{
     background-color: #a8dadc;
-    
     font-family: 'Times New Roman', Times, serif;
 }
-div#menu{
+div{
     width: auto;
     height: auto;
-    padding: 60px;
+    padding: 10px;
     padding-bottom: 20px;
     background-color: #f1faee;
     border-radius: 15px; 
 }
 h1{
     text-align: center;
+    text-align: top ;
     color: black;
 }
