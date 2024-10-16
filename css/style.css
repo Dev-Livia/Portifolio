@@ -7,12 +7,13 @@ body{
 div#menu{
     width: auto;
     height: auto;
-    padding: 60px;
+    padding: 10px;
     padding-bottom: 20px;
     background-color: #f1faee;
     border-radius: 15px; 
 }
 h1{
     text-align: center;
+    padding-top: 20px;
     color: black;
 }

@@ -16,3 +16,16 @@ h1{
     text-align: top ;
     color: black;
 }
+header{
+    background-color: #fbfcfb;
+    margin: auto;
+    width: 600px;
+    height: 100%;
+    padding-left: 60px;
+    padding-right: 60px;
+    right: 40%;
+    border-radius: 15px;
+}
+p{
+    padding-top: 20px;
+}
