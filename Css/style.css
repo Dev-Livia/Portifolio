@@ -1,0 +1,41 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    background-image: linear-gradient(to top,#000b19,#164b8b );
+    background-repeat: no-repeat;
+}
+h1{
+    color: white;
+}
+nav{
+    display: flex;
+    gap: 2rem;
+    padding: 15px;
+    background-color: rgba(255, 255, 255, 0.114);
+
+}
+a{
+    text-decoration: none;
+    color: white;
+    transition: all 0.3s ease;
+
+}
+a:hover{
+    text-decoration: underline;
+    color: rgb(104, 181, 174);
+    transform: scale(1.05);
+}
+h1{
+    position: absolute;
+    top: 50%;
+    left: 20%;
+    transform: translate(-50%, -50%);
+}
+p{
+    position: absolute;
+    top: 60%;
+    left: 47%;
+    transform: translate(-50%, -50%);
+}
