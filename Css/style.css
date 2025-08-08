@@ -3,7 +3,7 @@ body{
     margin: 0;
     padding: 0;
     height: 100vh;
-    background-image: linear-gradient(to top,#000b19,#164b8b );
+    background-image: linear-gradient(to top,#000b19,#164A89 );
     background-repeat: no-repeat;
 }
 h1{
@@ -25,7 +25,7 @@ a{
 a:hover{
     text-decoration: underline;
     color: rgb(104, 181, 174);
-    transform: scale(1.05);
+    transform: scale(1.07);
 }
 h1{
     position: absolute;
