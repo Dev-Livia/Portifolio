@@ -12,6 +12,21 @@ body{
         align-items: center;
     }
 }
+.menu a{
+    text-decoration: none;
+    color: white;
+    transition: all 0.3s ease;
+    background-color: rgba(255, 255, 255, 0.272);
+    display: inline-block;
+
+    padding: 6px;
+    border-radius: 5px;
+}
+.menu a:hover{
+    text-decoration: underline;
+    color: rgb(104, 181, 174);
+    transform: scale(1.07);
+}
 h1{
     color: white;
 }
@@ -21,17 +36,6 @@ nav{
     padding: 15px;
     background-color: rgba(255, 255, 255, 0.114);
 
-}
-a{
-    text-decoration: none;
-    color: white;
-    transition: all 0.3s ease;
-
-}
-a:hover{
-    text-decoration: underline;
-    color: rgb(104, 181, 174);
-    transform: scale(1.07);
 }
 h1{
     position: absolute;
